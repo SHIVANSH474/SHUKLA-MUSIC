@@ -8,11 +8,20 @@ def start_panel(_):
     buttons = [
         [
             InlineKeyboardButton(
-                text=_["S_B_1"], url=f"https://t.me/{app.username}?startgroup=true"
-            ),
-            InlineKeyboardButton(text=_["S_B_2"], url=config.SUPPORT_CHAT),
+                text=" Aᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ⛦",
+                url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
+            )
         ],
-    ]
+        [
+            InlineKeyboardButton(
+                text=" Hᴇʟᴩ ",
+                callback_data="settings_back_helper"
+            ),
+            InlineKeyboardButton(
+                text=" Sᴇᴛᴛɪɴɢs ", callback_data="settings_helper"
+            ),
+        ],
+     ]
     return buttons
 
 
@@ -20,18 +29,27 @@ def private_panel(_):
     buttons = [
         [
             InlineKeyboardButton(
-                text=_["S_B_3"],
-                url=f"https://t.me/{app.username}?startgroup=true",
+                text="+ Aᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ +",
+                url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
             )
         ],
-        [InlineKeyboardButton(text=_["S_B_4"], callback_data="settings_back_helper")],
         [
-            InlineKeyboardButton(text=_["S_B_5"], user_id=config.OWNER_ID),
-            InlineKeyboardButton(text=_["S_B_2"], url=config.SUPPORT_CHAT),
+            InlineKeyboardButton(
+                text="Hᴇʟᴩ", callback_data="settings_back_helper"
+            )
         ],
         [
-            InlineKeyboardButton(text=_["S_B_6"], url=config.SUPPORT_CHANNEL),
-            InlineKeyboardButton(text=_["S_B_7"], url=config.UPSTREAM_REPO),
+            InlineKeyboardButton(
+                text="Sᴜᴩᴩᴏʀᴛ", url=config.SUPPORT_GROUP
+            ),
+            InlineKeyboardButton(
+                text="Oᴡɴᴇʀ", user_id=OWNER
+            )
         ],
-    ]
+        [
+            InlineKeyboardButton(
+                text="[❄️] Iɴᴛʀᴏᴅᴜᴄᴛɪᴏɴ [❄️]", url=config.GITHUB_REPO
+            )
+        ],
+     ]
     return buttons
