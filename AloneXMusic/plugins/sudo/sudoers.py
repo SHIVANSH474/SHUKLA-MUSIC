@@ -1,12 +1,12 @@
 from pyrogram import filters
 from pyrogram.types import Message
 
-from AloneMusic import app
-from AloneMusic.misc import SUDOERS
-from AloneMusic.utils.database import add_sudo, remove_sudo
-from AloneMusic.utils.decorators.language import language
-from AloneMusic.utils.extraction import extract_user
-from AloneMusic.utils.inline import close_markup
+from AloneXMusic import app
+from AloneXMusic.misc import SUDOERS
+from AloneXMusic.utils.database import add_sudo, remove_sudo
+from AloneXMusic.utils.decorators.language import language
+from AloneXMusic.utils.extraction import extract_user
+from AloneXMusic.utils.inline import close_markup
 from config import BANNED_USERS, OWNER_ID
 
 
