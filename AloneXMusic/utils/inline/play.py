@@ -32,26 +32,26 @@ def stream_markup_timer(_, chat_id, played, dur):
     duration_sec = time_to_seconds(dur)
     percentage = (played_sec / duration_sec) * 100
     umm = math.floor(percentage)
-    if 0 < umm <= 10:
-        bar = "◉—————————"
-    elif 10 < umm < 20:
-        bar = "—◉————————"
-    elif 20 <= umm < 30:
-        bar = "——◉———————"
-    elif 30 <= umm < 40:
-        bar = "———◉——————"
-    elif 40 <= umm < 50:
-        bar = "————◉—————"
-    elif 50 <= umm < 60:
-        bar = "—————◉————"
-    elif 60 <= umm < 70:
-        bar = "——————◉———"
-    elif 70 <= umm < 80:
-        bar = "———————◉——"
-    elif 80 <= umm < 95:
-        bar = "————————◉—"
+    if 0 < alone <= 10:
+        bar = "♡═════════"
+    elif 10 < alone < 20:
+        bar = "═♡════════"
+    elif 20 <= alone < 30:
+        bar = "══♡═══════"
+    elif 30 <= alone < 40:
+        bar = "═══♡══════"
+    elif 40 <= alone < 50:
+        bar = "════♡═════"
+    elif 50 <= alone < 60:
+        bar = "═════♡════"
+    elif 60 <= alone < 70:
+        bar = "══════♡═══"
+    elif 70 <= alone < 80:
+        bar = "═══════♡══"
+    elif 80 <= alone < 95:
+        bar = "════════♡═"
     else:
-        bar = "—————————◉"
+        bar = "═════════♡"
     buttons = [
         [
             InlineKeyboardButton(
