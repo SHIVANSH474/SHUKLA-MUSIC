@@ -13,4 +13,4 @@ def ul(_, message):
         for x in fk:
             url = "https://telegra.ph" + x
 
-        i.edit(f' f'𝐘ᴏᴜʀ 𝐓ᴇʟᴇɢʀᴀᴘʜ {url}')
+        i.edit(f'𝐘ᴏᴜʀ 𝐓ᴇʟᴇɢʀᴀᴘʜ {url}')
