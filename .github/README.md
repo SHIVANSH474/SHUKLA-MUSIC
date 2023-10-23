@@ -1,5 +1,5 @@
 ━━━━━━━━━━━━━━━━
-### 🌷𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒🌷
+### 🌷𝐕ɪsɪᴛᴏʀs🌷
 
 <!--
 **TeamAloneOp/AloneXMusic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -102,6 +102,6 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 </p>
 
 <p align="center">
-<a href="https://telegram.me/TeamAloneOps"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/AloneXBots"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
