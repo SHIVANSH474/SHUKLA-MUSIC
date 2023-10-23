@@ -29,7 +29,7 @@
 </p>
 
 <p align='center'>
-  <a href="https://go.dev/" alt="made-with-go"> <img src="https://img.shields.io/badge/Made%20with-Go-1f425f.svg?style=flat-square&logo=Go&color=blue" /> </a>
+  <a href="https://t.me/ALONE_WAS_BOT" alt="made-with-go"> <img src="https://img.shields.io/badge/Made%20with-Go-1f425f.svg?style=flat-square&logo=Go&color=blue" /> </a>
 
 
 </h2>
