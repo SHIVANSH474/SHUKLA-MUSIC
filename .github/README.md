@@ -18,9 +18,6 @@
 
 ★ 𝙷𝙴𝚁𝙾𝙺𝚄 + 𝚅𝙿𝚂 ★
 
-<a href="https://github.com/TeamAloneOp/AloneXMusic/actions/workflows/release.yml" alt="made-with-go"> <img src="https://github.com/TeamAloneOp/AloneXMusic/actions/workflows/release.yml/badge.svg" alt="Release"/> </a></p>
-
-
 <p align='center'>
   <img src="https://img.shields.io/github/forks/TeamAloneOp/AloneXMusic?style=flat-square" alt="Forks">
   <img src="https://img.shields.io/github/stars/TeamAloneOp/AloneXMusic?style=flat-square" alt="Stars">
@@ -33,9 +30,7 @@
 
 <p align='center'>
   <a href="https://go.dev/" alt="made-with-go"> <img src="https://img.shields.io/badge/Made%20with-Go-1f425f.svg?style=flat-square&logo=Go&color=blue" /> </a>
-  <a href="https://deepsource.io/gh/TeamAloneOp/AloneXMusic/?ref=repository-badge"><img src="https://static.deepsource.io/deepsource-badge-light-mini.svg" alt="DeepSource"></a>
-  <a href="https://makeapullrequest.com" alt="PRs Welcome"> <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" /> </a>
-</p>
+
 
 </h2>
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=♦𝙳𝙴𝙿𝙻𝙾𝚈+𝙾𝙽+𝙷𝙴𝚁𝙾𝙺𝚄♦;♨️+𝙽𝙾+𝙷𝙴𝚁𝙾𝙺𝚄+𝙱𝙰𝙽+𝙸𝚂𝚂𝚄𝙴+𝙰𝙻𝚂𝙾+𝚅𝙿𝚂+𝙳𝙴𝙿𝙻𝙾𝚈+📍+𝙿𝚁𝙴𝚂𝙴𝙽𝚃;🎭+𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈+𝗔𝗟𝗢𝗡𝗘+🎭">
