@@ -18,10 +18,7 @@
 
 ★ 𝙷𝙴𝚁𝙾𝙺𝚄 + 𝚅𝙿𝚂 ★
 
-<p align='center'>
-  <a href="https://github.com/TeamAloneOp/AloneXMusic/actions/workflows/ci.yml"><img src="https://github.com/TeamAloneOp/AloneXMusic/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
-  <a href="https://github.com/TeamAloneOp/AloneXMusic/actions/workflows/release.yml" alt="made-with-go"> <img src="https://github.com/TeamAloneOp/AloneXMusic/actions/workflows/release.yml/badge.svg" alt="Release"/> </a>
-</p>
+<a href="https://github.com/TeamAloneOp/AloneXMusic/actions/workflows/release.yml" alt="made-with-go"> <img src="https://github.com/TeamAloneOp/AloneXMusic/actions/workflows/release.yml/badge.svg" alt="Release"/> </a></p>
 
 
 <p align='center'>
