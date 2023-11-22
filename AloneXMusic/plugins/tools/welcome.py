@@ -131,11 +131,11 @@ async def greet_group(_, member: ChatMemberUpdated):
             member.chat.id,
             photo=welcomeimg,
             caption=f"""
-**Wᴇʟᴄᴏᴍᴇ Tᴏ {member.chat.title}
+**𝐖ᴇʟᴄᴏᴍᴇ 𝐓ᴏ {member.chat.title}
 ➖➖➖➖➖➖➖➖➖➖➖➖
-NAME: {user.mention}
-ID: {user.id}
-USERNAME: @{user.username}
+𝐍ᴀᴍᴇ: {user.mention}
+𝐈ᴅ: {user.id}
+𝐔sᴇʀɴᴀᴍᴇ: @{user.username}
 ➖➖➖➖➖➖➖➖➖➖➖➖**
 """,
             reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(f"{user.first_name}", url=f"https://t.me/{user.username}")]])
@@ -155,11 +155,11 @@ async def bot_wel(_, message):
     for u in message.new_chat_members:
         if u.id == app.me.id:
             await app.send_message(LOG_CHANNEL_ID, f"""
-**NEW GROUP
+**𝐍ᴇᴡ 𝐆ʀᴏᴜᴘ
 ➖➖➖➖➖➖➖➖➖➖➖➖
-NAME: {message.chat.title}
-ID: {message.chat.id}
-USERNAME: @{message.chat.username}
+𝐍ᴀᴍᴇ: {message.chat.title}
+𝐈ᴅ: {message.chat.id}
+𝐔sᴇʀɴᴀᴍᴇ: @{message.chat.username}
 ➖➖➖➖➖➖➖➖➖➖➖➖**
 """)
 
