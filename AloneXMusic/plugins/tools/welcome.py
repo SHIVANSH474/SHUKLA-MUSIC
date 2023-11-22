@@ -57,7 +57,7 @@ def welcomepic(pic, user, chat, id, uname):
     welcome_font = ImageFont.truetype('AloneXMusic/assets/font.ttf', size=60)
     draw.text((30, 300), f'NAME: {user}', fill=(255, 255, 255), font=font)
     draw.text((30, 370), f'ID: {id}', fill=(255, 255, 255), font=font)
-    draw.text((30, 40), f"Welcome to {chat}", fill=(225, 225, 225), font=welcome_font)
+    draw.text((30, 40), f"AlonesHeaven", fill=(225, 225, 225), font=welcome_font)
     draw.text((30, 430), f"USERNAME : {uname}", fill=(255, 255, 255), font=font)
     pfp_position = (671, 134)
     background.paste(pfp, pfp_position, pfp)
@@ -131,7 +131,7 @@ async def greet_group(_, member: ChatMemberUpdated):
             member.chat.id,
             photo=welcomeimg,
             caption=f"""
-**WELCOME TO {member.chat.title}
+**Wᴇʟᴄᴏᴍᴇ Tᴏ {member.chat.title}
 ➖➖➖➖➖➖➖➖➖➖➖➖
 NAME: {user.mention}
 ID: {user.id}
