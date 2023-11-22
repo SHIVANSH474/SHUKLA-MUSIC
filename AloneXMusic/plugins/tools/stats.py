@@ -1,4 +1,5 @@
 import platform
+import random
 from sys import version as pyver
 
 import psutil
@@ -9,6 +10,7 @@ from pyrogram.types import InputMediaPhoto, Message
 from pytgcalls.__version__ import __version__ as pytgver
 
 import config
+from config import STATS_IMG_URL
 from AloneXMusic import app
 from AloneXMusic.core.userbot import assistants
 from AloneXMusic.misc import SUDOERS, mongodb
@@ -17,6 +19,7 @@ from AloneXMusic.utils.database import get_served_chats, get_served_users, get_s
 from AloneXMusic.utils.decorators.language import language, languageCB
 from AloneXMusic.utils.inline.stats import back_stats_buttons, stats_buttons
 from config import BANNED_USERS
+from config import OWNER_ID
 
 
 @app.on_message(filters.command(["stats", "gstats"]) & filters.group & ~BANNED_USERS)
@@ -24,7 +27,7 @@ from config import BANNED_USERS
 async def stats_global(client, message: Message, _):
     upl = stats_buttons(_, True if message.from_user.id in SUDOERS else False)
     await message.reply_photo(
-        photo=config.STATS_IMG_URL,
+        photo=random.choice(STATS_IMG_URL),
         caption=_["gstats_2"].format(app.mention),
         reply_markup=upl,
     )
@@ -68,7 +71,7 @@ async def overall_stats(client, CallbackQuery, _):
         await CallbackQuery.edit_message_media(media=med, reply_markup=upl)
     except MessageIdInvalid:
         await CallbackQuery.message.reply_photo(
-            photo=config.STATS_IMG_URL, caption=text, reply_markup=upl
+            photo=random.choice(STATS_IMG_URL), caption=text, reply_markup=upl
         )
 
 
@@ -131,5 +134,5 @@ async def bot_stats(client, CallbackQuery, _):
         await CallbackQuery.edit_message_media(media=med, reply_markup=upl)
     except MessageIdInvalid:
         await CallbackQuery.message.reply_photo(
-            photo=config.STATS_IMG_URL, caption=text, reply_markup=upl
+            photo=random.choice(STATS_IMG_URL), caption=text, reply_markup=upl
         )
