@@ -1,4 +1,4 @@
-from AloneX.utils.mongo import db
+from AloneXMusic.utils.mongo import db
 
 afkdb = db.afk
 
