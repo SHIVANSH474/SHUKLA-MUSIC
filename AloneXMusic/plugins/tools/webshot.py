@@ -76,14 +76,14 @@ async def take_ss(_, message: Message):
             "true",
         ]
     else:
-        return await eor(message, text="**ɪɴᴠᴀʟɪᴅ ᴄᴏᴍᴍᴀɴᴅ.**")
+        return await eor(message, text="𝐈ɴᴠᴀʟɪᴅ 𝐂ᴏᴍᴍᴀɴᴅ.")
 
-    m = await eor(message, text="**ᴄᴀᴘᴛᴜʀɪɴɢ sᴄʀᴇᴇɴsʜᴏᴛ...**")
+    m = await eor(message, text="𝐂ᴀᴘᴛᴜʀɪɴɢ 𝐒ᴄʀᴇᴇɴsʜᴏᴛ...")
 
     try:
         photo = await take_screenshot(url, full)
         if not photo:
-            return await m.edit("**ғᴀɪʟᴇᴅ ᴛᴏ ᴛᴀᴋᴇ sᴄʀᴇᴇɴsʜᴏᴛ.**")
+            return await m.edit("𝐅ᴀɪʟᴇᴅ 𝐓ᴏ 𝐓ᴀᴋᴇ 𝐒ᴄʀᴇᴇɴsʜᴏᴛ.")
 
         m = await m.edit("**ᴜᴘʟᴏᴀᴅɪɴɢ...**")
 
