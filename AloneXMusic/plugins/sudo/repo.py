@@ -17,9 +17,9 @@ async def varsFunc(client, message):
     )
     up_r = f"[𝗥𝗘𝗣𝗢]({config.UPSTREAM_REPO})"
     up_b = f"[𝗠𝗔𝗦𝗧𝗘𝗥]({config.UPSTREAM_BRANCH})"
-    sp_c = f"[𓊈𒆜彡[𝐀ʟᴏɴᴇ 𝐍ᴇᴛᴡᴏʀᴋ]彡𒆜𓊉]({config.SUPPORT_CHANNEL})"
-    sp_g = f"[𓊈𒆜彡[𝐀ʟᴏɴᴇ's 𝐇ᴇᴀᴠᴇɴ]彡𒆜𓊉]({config.SUPPORT_CHAT})"
-    ow_i = f"[⏤͟͞ 𝐀 Ł ꪮ ɳ ᴇ ꭙ ˼ㅤ [•ᴧғᴋ•]™](https://t.me/ALONE_WAS_BOT)"
+    sp_c = f"[𓆩𓆩〭〬𝐀𝙻𝙾𝙽𝙴 𝐔𝙿𝙳𝙰𝚃𝙴𝚂 💳]({config.SUPPORT_CHANNEL})"
+    sp_g = f"[𓊈𒆜彡[𝐀𝙻𝙾𝙽𝙴 𝐒𝚄𝙿𝙿𝙾𝚁𝚃]彡𒆜𓊉]({config.SUPPORT_CHAT})"
+    ow_i = f"[𒆜𝐌𝚁°᭄𝐀𝙻𝙾𝙽𝙴 ࿐™](https://t.me/ALONE_WAS_BOT)"
 
  ##############
  
