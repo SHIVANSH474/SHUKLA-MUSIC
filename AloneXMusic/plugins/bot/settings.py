@@ -5,6 +5,8 @@ from pyrogram.types import (
     CallbackQuery,
     InlineKeyboardButton,
     InlineKeyboardMarkup,
+    InputMediaPhoto,
+    InputMediaVideo,
     Message,
 )
 
@@ -46,6 +48,17 @@ async def settings_mar(client, message: Message, _):
     await message.reply_text(
         _["setting_1"].format(app.mention, message.chat.id, message.chat.title),
         reply_markup=InlineKeyboardMarkup(buttons),
+    )
+
+
+@app.on_callback_query(filters.regex("gib_source") & ~BANNED_USERS)
+@languageCB
+async def gib_repo(client, CallbackQuery, _):
+    await CallbackQuery.edit_message_media(
+        InputMediaVideo("https://te.legra.ph/file/e6471d19bd04a5095436a.mp4"),
+        reply_markup=InlineKeyboardMarkup(
+            [[InlineKeyboardButton(text="ʙᴀᴄᴋ", callback_data=f"settingsback_helper")]]
+        ),
     )
 
 
