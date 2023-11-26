@@ -16,8 +16,8 @@ button = InlineKeyboardMarkup([[
 aiohttpsession = ClientSession()
 
 
-async def post(url: str, *args, kwargs):
-    async with aiohttpsession.post(url, *args, kwargs) as resp:
+async def post(url: str, *args, **kwargs):
+    async with aiohttpsession.post(url, *args, **kwargs) as resp:
         try:
             data = await resp.json()
         except Exception:
@@ -49,14 +49,14 @@ async def take_screenshot(url: str, full: bool = False):
     return file
 
 
-async def eor(msg: Message, kwargs):
+async def eor(msg: Message, **kwargs):
     func = (
         (msg.edit_text if msg.from_user.is_self else msg.reply)
         if msg.from_user
         else msg.reply
     )
     spec = getfullargspec(func.__wrapped__).args
-    return await func({k: v for k, v in kwargs.items() if k in spec})
+    return await func(**{k: v for k, v in kwargs.items() if k in spec})
 
 
 @app.on_message(filters.command(["webss", "ss", "webshot"]))
@@ -76,16 +76,16 @@ async def take_ss(_, message: Message):
             "true",
         ]
     else:
-        return await eor(message, text="ɪɴᴠᴀʟɪᴅ ᴄᴏᴍᴍᴀɴᴅ.")
+        return await eor(message, text="𝐈ɴᴠᴀʟɪᴅ 𝐂ᴏᴍᴍᴀɴᴅ.")
 
-    m = await eor(message, text="ᴄᴀᴘᴛᴜʀɪɴɢ sᴄʀᴇᴇɴsʜᴏᴛ...")
+    m = await eor(message, text="𝐂ᴀᴘᴛᴜʀɪɴɢ 𝐒ᴄʀᴇᴇɴsʜᴏᴛ...")
 
     try:
         photo = await take_screenshot(url, full)
         if not photo:
-            return await m.edit("ғᴀɪʟᴇᴅ ᴛᴏ ᴛᴀᴋᴇ sᴄʀᴇᴇɴsʜᴏᴛ.")
+            return await m.edit("𝐅ᴀɪʟᴇᴅ 𝐓ᴏ 𝐓ᴀᴋᴇ 𝐒ᴄʀᴇᴇɴsʜᴏᴛ.")
 
-        m = await m.edit("ᴜᴘʟᴏᴀᴅɪɴɢ...")
+        m = await m.edit("𝐔ᴘʟᴏᴀᴅɪɴɢ...")
 
         if not full:
             await message.reply_photo(photo, reply_markup=button)
