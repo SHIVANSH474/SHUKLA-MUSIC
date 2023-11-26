@@ -9,9 +9,12 @@ ffmpeg-python
 gitpython
 hachoir
 heroku3
+apscheduler
 motor==3.0.0
 pillow==9.5.0
 psutil
+wget
+future==0.18.3
 search_engine_parser
 py-tgcalls==0.9.7
 pykeyboard
@@ -29,8 +32,7 @@ youtube-search
 youtube-search-python
 gtts
 git+https://github.com/AsmSafone/SafoneAPI
-lexica-api==1.4.4
+lexica-api
 httpx
 gpytranslate
 openai==0.28.0
-
