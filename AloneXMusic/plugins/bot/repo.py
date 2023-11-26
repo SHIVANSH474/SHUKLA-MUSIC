@@ -3,7 +3,7 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 from AloneXMusic import app
 from config import BOT_USERNAME
 
-start_txt = """**
+start_txt = """
 ✪ 𝐖εℓ¢σмє 𝐅σя 𝐀ℓσиє 𝐑єρσѕ ✪
  
  ➲ ᴀʟʟ ʀᴇᴘᴏ ᴇᴀsɪʟʏ ᴅᴇᴘʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ ᴡɪᴛʜᴏᴜᴛ ᴀɴʏ ᴇʀʀᴏʀ ✰
@@ -14,7 +14,7 @@ start_txt = """**
  
  ➲ ʀᴜɴ 24x7 ʟᴀɢ ғʀᴇᴇ ᴡɪᴛʜᴏᴜᴛ sᴛᴏᴘ ✰
  
-**"""
+"""
 
 
 
