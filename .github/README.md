@@ -11,18 +11,7 @@
 
 ★ 𝙷𝙴𝚁𝙾𝙺𝚄 + 𝚅𝙿𝚂 ★
 
-<p align='center'>
-  <img src="https://graph.org/file/d28d940eb53ff401b3467.jpg" alt="Forks">
-  <img src="https://img.shields.io/github/stars/TeamAloneOp/AloneXMusic?style=flat-square" alt="Stars">
-  <img src="https://img.shields.io/github/issues/TeamAloneOp/AloneXMusic?style=flat-square" alt="Issues">
-  <img src="https://img.shields.io/github/license/TeamAloneOp/AloneXMusic?style=flat-square" alt="LICENSE">
-  <img src="https://img.shields.io/github/contributors/TeamAloneOp/AloneXMusic?style=flat-square" alt="Contributors">
-  <img src="https://img.shields.io/github/repo-size/TeamAloneOp/AloneXMusic?style=flat-square" alt="Repo Size">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/TeamAloneOp/AloneXMusic&amp;title=Repo%20Views" alt="Views">
-</p>
-
-<p align='center'>
-  <a href="https://t.me/ALONE_WAS_BOT" alt="Made-By-Alone"> <img src="https://img.shields.io/badge/Made%20with-Go-1f425f.svg?style=flat-square&logo=Go&color=blue" /> </a>
+<
 
 </h2>
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=♦𝙳𝙴𝙿𝙻𝙾𝚈+𝙾𝙽+𝙷𝙴𝚁𝙾𝙺𝚄♦;♨️+𝙽𝙾+𝙷𝙴𝚁𝙾𝙺𝚄+𝙱𝙰𝙽+𝙸𝚂𝚂𝚄𝙴+𝙰𝙻𝚂𝙾+𝚅𝙿𝚂+𝙳𝙴𝙿𝙻𝙾𝚈+📍+𝙿𝚁𝙴𝚂𝙴𝙽𝚃;🎭+𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈+𝗔𝗟𝗢𝗡𝗘+🎭">
