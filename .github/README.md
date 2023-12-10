@@ -1,20 +1,13 @@
 ━━━━━━━━━━━━━━━━
 ### 🌷𝐕ɪsɪᴛᴏʀs🌷
 
-<!--
-**TeamAloneOp/AloneXMusic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://telegra.ph/file/86d8eddb9264ed67505b0.jpg" width="600">
+</div>
 
-
-<p align="center">
-    <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/TeamAloneOp/count.svg" />
-</p>
-
-
-
-
-<h2 align="center">
-    𖢵 ˹ 𝗠ᴇʟᴀɴɪᴀ ✘ 𝗥𝙾𝙱𝙾 ˼ 𖢵
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=DC143C&center=true&lines=──+「+𝗦𝙴𝙽𝙾𝚁𝙸𝚃𝙰+ダ+𝗥𝙾𝙱𝙾+」+──;An+Advanced+Group+Management+Bot.&width=600&height=180">
+</div>
 
 ★ 𝙷𝙴𝚁𝙾𝙺𝚄 + 𝚅𝙿𝚂 ★
 
