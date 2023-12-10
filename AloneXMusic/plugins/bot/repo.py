@@ -38,7 +38,7 @@ InlineKeyboardButton("𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥", url=f"https://t.me/SHIV
               InlineKeyboardButton("𝗕𝗔𝗡𝗔𝗟𝗟", url=f"https://t.me/ll_Miss_Rose_bot"),
               ],
               [
-              InlineKeyboardButton("𝗦𝗧𝗥𝗜𝗡𝗚  𝗛𝗔𝗖𝗞 𝗕𝗢𝗧", url=f"https://t.me/@StrangerHackBot"),
+              InlineKeyboardButton("𝗦𝗧𝗥𝗜𝗡𝗚  𝗛𝗔𝗖𝗞 𝗕𝗢𝗧", url=f"https://t.me/StrangerHackBot"),
 InlineKeyboardButton("𝗨𝗦𝗘𝗥 𝗕𝗢𝗧", url=f"https://t.me/Shukla_op_clone1bot"),
 ],
 [
@@ -53,7 +53,7 @@ InlineKeyboardButton("𝗦𝗘𝗦𝗦𝗜𝗢𝗡 𝗚𝗘𝗡 𝗕𝗢𝗧", u
     reply_markup = InlineKeyboardMarkup(buttons)
     
     await msg.reply_photo(
-        photo="https://telegra.ph/file/70402820cd4afd8ea4c13.jpg",
+        photo="https://te.legra.ph/file/8e779ca298fb47f368f2b.jpg",
         caption=start_txt,
         reply_markup=reply_markup
     )
