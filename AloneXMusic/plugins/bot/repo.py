@@ -26,11 +26,11 @@ async def start(_, msg):
           InlineKeyboardButton("𝗔𝗗𝗗 𝗠𝗘", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
         ],
         [
-          InlineKeyboardButton("𝗛𝗘𝗟𝗣", url="https://t.me/AlonesHeaven"),
-          InlineKeyboardButton("𝗢𝗪𝗡𝗘𝗥", url="https://t.me/ALONE_WAS_BOT"),
+          InlineKeyboardButton("𝗛𝗘𝗟𝗣", url="https://t.me/mastiwithfriendsx"),
+          InlineKeyboardButton("𝗢𝗪𝗡𝗘𝗥", url="https://t.me/ITSZ_SHIVANSH"),
           ],
                [
-                InlineKeyboardButton("𝗔𝗟𝗢𝗡𝗘 𝗡𝗘𝗧𝗪𝗢𝗥𝗞", url=f"https://t.me/AloneXBots"),
+                InlineKeyboardButton("𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥 𝗡𝗘𝗧𝗪𝗢𝗥𝗞", url=f"https://t.me/STRANGER_LOGS"),
 
 ],
 [
@@ -46,7 +46,7 @@ InlineKeyboardButton("𝗧𝗘𝗟𝗘𝗧𝗛𝗢𝗡 𝗠𝗨𝗦𝗜𝗖", ur
 InlineKeyboardButton("𝗔𝗟𝗢𝗡𝗘 𝗬𝗨𝗞𝗞𝗜", url=f"https://github.com/TeamAloneOp/AloneMusicBot"),
 ],
 [
-InlineKeyboardButton("𝗖𝗛𝗔𝗧 𝗕𝗢𝗧", url=f"https://github.com/TeamAloneOp/AloneXChatBot"),
+InlineKeyboardButton("𝗖𝗛𝗔𝗧 𝗕𝗢𝗧", url=f"https://t.me/ITZ_MERADHIKABOT"),
 InlineKeyboardButton("𝗜𝗗 𝗖𝗛𝗔𝗧 𝗕𝗢𝗧", url=f"https://github.com/TeamAloneOp/AloneXIdChatbot"),
 ],
 [
@@ -54,7 +54,7 @@ InlineKeyboardButton("𝗜𝗗 𝗖𝗛𝗔𝗧 𝗕𝗢𝗧", url=f"https://git
               InlineKeyboardButton("𝗕𝗔𝗡𝗔𝗟𝗟", url=f"https://github.com/TeamAloneOp/AloneXBanallBot"),
               ],
               [
-              InlineKeyboardButton("𝗦𝗧𝗥𝗜𝗡𝗚𝗕𝗢𝗧", url=f"https://github.com/TeamAloneOp/AloneXStringGenBot"),
+              InlineKeyboardButton("𝗦𝗧𝗥𝗜𝗡𝗚  𝗛𝗔𝗖𝗞 𝗕𝗢𝗧", url=f"https://t.me/@StrangerHackBot"),
 InlineKeyboardButton("𝗕𝗬𝗣𝗔𝗦𝗦", url=f"https://github.com/TeamAloneOp/AloneXBypass"),
 ],
 [
