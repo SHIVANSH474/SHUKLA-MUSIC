@@ -19,7 +19,7 @@
 ★ 𝙷𝙴𝚁𝙾𝙺𝚄 + 𝚅𝙿𝚂 ★
 
 <p align='center'>
-  <img src="https://img.shields.io/github/forks/TeamAloneOp/AloneXMusic?style=flat-square" alt="Forks">
+  <img src="https://graph.org/file/d28d940eb53ff401b3467.jpg" alt="Forks">
   <img src="https://img.shields.io/github/stars/TeamAloneOp/AloneXMusic?style=flat-square" alt="Stars">
   <img src="https://img.shields.io/github/issues/TeamAloneOp/AloneXMusic?style=flat-square" alt="Issues">
   <img src="https://img.shields.io/github/license/TeamAloneOp/AloneXMusic?style=flat-square" alt="LICENSE">
