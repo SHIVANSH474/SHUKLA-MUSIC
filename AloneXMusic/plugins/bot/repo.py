@@ -62,7 +62,7 @@ InlineKeyboardButton("𝗥𝗪 𝗦𝗧𝗥𝗜𝗣𝗘", url=f"https://github.c
 InlineKeyboardButton("𝗥𝗪 𝗗𝗘𝗣𝗟𝗢𝗬", url=f"https://github.com/TeamAloneOp/AloneXRailway"),
 ],
 [
-InlineKeyboardButton("𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟 𝗕𝗢𝗧", url=f"https://t.me/AloneXMusicBot"),
+InlineKeyboardButton("𝗦𝗘𝗦𝗦𝗜𝗢𝗡 𝗚𝗘𝗡 𝗕𝗢𝗧", url=f"https://t.me/StringSesssionGeneratorRobot"),
 
         ]]
     
