@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=DC143C&center=true&lines=──+「+𝗠ᴇʟᴀɴɪᴀ+ダ+𝗠ᴜsɪᴄ+」+──;An+Advanced+Group+Management+Bot.&width=600&height=180">
+  <img src="https://readme-typing-svg.herokuapp.com?color=DC143C&center=true&lines=──+「+𝗠ᴇʟᴀɴɪᴀ+ダ+𝗠ᴜsɪᴄ+」+──;An+Advanced+telegram+Music+Bot.&width=600&height=180">
 </div>
 
 
