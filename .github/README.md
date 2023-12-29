@@ -9,11 +9,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=DC143C&center=true&lines=──+「+𝗠ᴇʟᴀɴɪᴀ+ダ+𝗠ᴜsɪᴄ+」+──;An+Advanced+Group+Management+Bot.&width=600&height=180">
 </div>
 
-★ 𝙷𝙴𝚁𝙾𝙺𝚄 + 𝚅𝙿𝚂 ★
-=♦𝙳𝙴𝙿𝙻𝙾𝚈+𝙾𝙽+𝙷𝙴𝚁𝙾𝙺𝚄♦;♨️+𝙽𝙾+𝙷𝙴𝚁𝙾𝙺𝚄+𝙱𝙰𝙽+𝙸𝚂𝚂𝚄𝙴+𝙰𝙻𝚂𝙾+𝚅𝙿𝚂+𝙳𝙴𝙿𝙻𝙾𝚈+📍+𝙿𝚁𝙴𝚂𝙴𝙽𝚃;🎭+𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈+𝗦𝗛𝗜𝗩𝗔𝗡𝗦𝗛+🎭">
 
-
-**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [𝄟ॐ❥𝗠𝗘𝗟𝗔𝗡𝗜𝗔🍷𝗠𝗨𝗦𝗜𝗖🌷𝗕𝗢𝗧❥𝄟⃟🥀](https://t.me/Melaniarobot)**
+**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [𝗠𝗘𝗟𝗔𝗡𝗜𝗔 𝗠𝗨𝗦𝗜𝗖](https://t.me/Melaniarobot)**
 
 
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=⚠️𝗙𝗢𝗥𝗞+𝗧𝗛𝗜𝗦+𝗥𝗘𝗣𝗢+𝗙𝗜𝗥𝗦𝗧𝗟𝗬⚠️">
