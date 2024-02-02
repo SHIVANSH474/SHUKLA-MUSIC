@@ -21,17 +21,17 @@ async def start(_, msg):
         ],
         [
           InlineKeyboardButton("𝗛𝗘𝗟𝗣", url="https://t.me/mastiwithfriendsx"),
-          InlineKeyboardButton("𝗢𝗪𝗡𝗘𝗥", url="https://t.me/ITSZ_SHIVANSH"),
+          InlineKeyboardButton("𝗦𝗛𝗜𝗩𝗔𝗡𝗦𝗛", url="https://t.me/SHIVANSH39"),
           ],
                [
-                InlineKeyboardButton("𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥 𝗡𝗘𝗧𝗪𝗢𝗥𝗞", url=f"https://t.me/STRANGER_LOGS"),
+                InlineKeyboardButton("𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥-𝗨𝗣𝗗𝗔𝗧𝗦", url=f"https://t.me/SHIVANSH474"),
 
 ],
 
             
 [
 InlineKeyboardButton("𝗖𝗛𝗔𝗧 𝗕𝗢𝗧", url=f"https://t.me/ITZ_MERADHIKABOT"),
-InlineKeyboardButton("𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥", url=f"https://t.me/SHIVANSH39"),
+InlineKeyboardButton("𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥-𝗠𝗨𝗦𝗜𝗖", url=f"https://t.me/Itz_SapnaMusicbot"),
 ],
 [
               InlineKeyboardButton("𝗦𝗣𝗔𝗠 𝗕𝗢𝗧𝗦", url=f"https://t.me/FIGHTERS1234"),
@@ -43,7 +43,7 @@ InlineKeyboardButton("𝗨𝗦𝗘𝗥 𝗕𝗢𝗧", url=f"https://t.me/Shukla_
 ],
 [
 InlineKeyboardButton("𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥 𝗥𝗢𝗕𝗢𝗧", url=f"https://t.me/StrangerSuperbot"),
-InlineKeyboardButton("𝗦𝗛𝗜𝗩𝗔𝗡𝗦𝗛", url=f"https://t.me/ABOUT_SHIVANSHOP"),
+InlineKeyboardButton("𝗦𝗧𝗥𝗔𝗡𝗚𝗘𝗥-𝗠𝗔𝗡𝗘𝗚𝗘𝗥", url=f"https://t.me/Melaniarobot"),
 ],
 [
 InlineKeyboardButton("𝗦𝗘𝗦𝗦𝗜𝗢𝗡 𝗚𝗘𝗡 𝗕𝗢𝗧", url=f"https://t.me/StringSesssionGeneratorRobot"),
