@@ -105,7 +105,7 @@ async def userstatus(user_id):
 
 # --------------------------------------------------------------------------------- #
 
-@Hiroko.on_message(filters.command(["info", "userinfo"]))
+@Hiroko.on_message(filters.command(["gfinfo", "usehsjrinfo"]))
 async def userinfo(_, message):
     chat_id = message.chat.id
     user_id = message.from_user.id
