@@ -15,7 +15,7 @@ async def blackpink(_, message):
 
 ####
 
-@app.on_message(filters.command(["github", "git"]))
+@app.on_message(filters.command(["githhub", "gihht"]))
 async def github(_, message):
     if len(message.command) != 2:
         await message.reply_text("/git TeamAloneOp")
