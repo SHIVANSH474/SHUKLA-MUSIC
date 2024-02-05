@@ -9,7 +9,7 @@ from AloneXMusic.mongo.afkdb import add_afk, is_afk, remove_afk
 
 
 
-@app.on_message(filters.command(["afk", "ye"], prefixes=["/", "b"]))
+@app.on_message(filters.command(["afk", "ye"], prefixes=["/", "b", "B"]))
 async def active_afk(_, message: Message):
     if message.sender_chat:
         return
